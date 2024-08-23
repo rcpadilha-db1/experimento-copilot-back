@@ -1,0 +1,38 @@
+services:
+  app:
+    image: app
+    container_name: nestjs-app
+    build: .
+    volumes:
+      - .:/app
+    command: sh -c "npm run migration:up && npm run start:dev"
+    restart: always
+    networks:
+      - default
+    ports:
+      - '3000:3000'
+    depends_on:
+      - mysql
+
+  mysql:
+    image: mysql:latest
+    container_name: nestjs-mysql
+    restart: always
+    networks:
+      - default
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=password
+      - MYSQL_DATABASE=app
+    ports:
+      - '3306:3306'
+    volumes:
+      - mysql:/var/lib/mysql
+
+volumes:
+  mysql:
+
+networks:
+  default:
+    driver: bridge
