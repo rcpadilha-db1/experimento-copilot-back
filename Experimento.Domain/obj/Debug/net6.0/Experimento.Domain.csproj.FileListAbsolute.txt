@@ -1,0 +1,12 @@
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\bin\Debug\net6.0\Experimento.Domain.deps.json
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\bin\Debug\net6.0\Experimento.Domain.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\bin\Debug\net6.0\ref\Experimento.Domain.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\bin\Debug\net6.0\Experimento.Domain.pdb
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\obj\Debug\net6.0\Experimento.Domain.csproj.AssemblyReference.cache
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\obj\Debug\net6.0\Experimento.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\obj\Debug\net6.0\Experimento.Domain.AssemblyInfoInputs.cache
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\obj\Debug\net6.0\Experimento.Domain.AssemblyInfo.cs
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\obj\Debug\net6.0\Experimento.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\obj\Debug\net6.0\Experimento.Domain.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\obj\Debug\net6.0\ref\Experimento.Domain.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Domain\obj\Debug\net6.0\Experimento.Domain.pdb

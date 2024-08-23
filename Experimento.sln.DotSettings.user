@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4f6dd59e_002D1825_002D41c0_002D82fb_002Dc5de2e61eb58/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateRideHandlerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::CEDE42AE-2E2E-4D93-9335-06831E165C4E::net6.0::Experimento.Tests.UseCases.CreateRideHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CEDE42AE-2E2E-4D93-9335-06831E165C4E::net6.0::Experimento.Tests.UseCases.DeleteRideByIdHandlerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CEDE42AE-2E2E-4D93-9335-06831E165C4E::net6.0::Experimento.Tests.Services.CheckIfRideExistsServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CEDE42AE-2E2E-4D93-9335-06831E165C4E::net6.0::Experimento.Tests.Services.CheckRideRequirementsRequirementsServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CEDE42AE-2E2E-4D93-9335-06831E165C4E::net6.0::Experimento.Tests.Services.ListRidesByRiderIdServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

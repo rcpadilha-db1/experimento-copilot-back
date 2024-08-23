@@ -1,0 +1,17 @@
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\bin\Debug\net6.0\Experimento.Application.deps.json
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\bin\Debug\net6.0\Experimento.Application.runtimeconfig.json
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\bin\Debug\net6.0\Experimento.Application.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\bin\Debug\net6.0\ref\Experimento.Application.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\bin\Debug\net6.0\Experimento.Application.pdb
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\bin\Debug\net6.0\Experimento.Domain.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\bin\Debug\net6.0\Experimento.Domain.pdb
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.csproj.AssemblyReference.cache
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.AssemblyInfoInputs.cache
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.AssemblyInfo.cs
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.csproj.CopyComplete
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\ref\Experimento.Application.dll
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.pdb
+C:\Users\leonardo.calheiros\Desktop\Experimento\Experimento.Application\obj\Debug\net6.0\Experimento.Application.genruntimeconfig.cache
