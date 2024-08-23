@@ -1,10 +1,9 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { NotFoundException } from '@nestjs/common';
-import { CreateUserDto } from 'src/dto/create-user.dto';
-import { User } from 'src/entity/user.entity';
-import { UserRepository } from 'src/repository/user.repository';
-import { UserService } from 'src/service/user.service';
-
+import { CreateUserDto } from '../../src/dto/create-user.dto';
+import { UserRepository } from '../../src/repository/user.repository';
+import { UserService } from '../../src/service/user.service';
+import { User } from '../../src/entity/user.entity';
 
 describe('UserService', () => {
   let userService: UserService;
