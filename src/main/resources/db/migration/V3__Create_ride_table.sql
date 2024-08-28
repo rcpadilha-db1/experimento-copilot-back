@@ -1,0 +1,8 @@
+CREATE TABLE RIDE (
+    id SERIAL PRIMARY KEY,
+    vehicle_id BIGINT NOT NULL,
+    user_id BIGINT NOT NULL,
+    date TIMESTAMP NOT NULL,
+    CONSTRAINT fk_vehicle FOREIGN KEY (vehicle_id) REFERENCES VEHICLE(id),
+    CONSTRAINT fk_user FOREIGN KEY (user_id) REFERENCES "USER"(id)
+);
