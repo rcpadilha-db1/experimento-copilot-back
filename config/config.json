@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "siuari",
+    "password": "123456",
+    "database": "caronaDb",
+    "host": "localhost:3306",
+    "dialect": "postgres"
+  }
+}

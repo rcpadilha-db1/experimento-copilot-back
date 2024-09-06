@@ -1,0 +1,1 @@
+docker run --name database -e POSTGRES_USER=siuari -e POSTGRES_PASSWORD=123456 -e POSTGRES_DB=caronaDb -p 5432:5432 -d postgres
