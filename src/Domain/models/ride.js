@@ -1,5 +1,5 @@
 const { Model, DataTypes } = require('sequelize');
-const sequelize = require('../config/database'); // Adjust the path as needed
+const sequelize = require('../../Infraestructure/config/database'); // Adjust the path as needed
 
 class Ride extends Model {}
 

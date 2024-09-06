@@ -1,6 +1,6 @@
 const sequelize = require('../config/database');
-const User = require('../models/user');
-const Vehicle = require('../models/vehicle');
+const User = require('../../Domain/models/user');
+const Vehicle = require('../../Domain/models/vehicle');
 
 async function seedDatabase() {
   try {

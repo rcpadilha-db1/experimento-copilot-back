@@ -1,9 +1,8 @@
 const express = require('express');
-const { DataTypes } = require('sequelize');
-const sequelize = require('./config/database'); // Corrected path
-const User = require('./models/user'); // Corrected path
-const Ride = require('./models/ride'); // Import the Ride model
-const Vehicle = require('./models/vehicle'); // Import the Vehicle model
+const sequelize = require('../Infraestructure/config/database'); // Corrected path
+const User = require('../Domain/models/user'); // Corrected path
+const Ride = require('../Domain/models/ride'); // Import the Ride model
+const Vehicle = require('../Domain/models/vehicle'); // Import the Vehicle model
 
 // Initialize Express app
 const app = express();
