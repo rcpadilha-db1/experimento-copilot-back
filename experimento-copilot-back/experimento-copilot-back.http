@@ -1,0 +1,6 @@
+@experimento_copilot_back_HostAddress = http://localhost:5157
+
+GET {{experimento_copilot_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\experimento-copilot-back.props" />
+</Project>
